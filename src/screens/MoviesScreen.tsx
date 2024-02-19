@@ -97,9 +97,12 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 16,
+
   },
   card: {
     margin: 8,
+
+
   },
   cardContent: {
     flex: 1,
